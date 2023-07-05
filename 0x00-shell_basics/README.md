@@ -9,3 +9,4 @@
 ## 7-movethatfile : Will move the fille betty from /tmp to /tmp/my_first_directory/
 ## 8-firstdelete : Will remove tge betty file
 ## 9-firstdirdeletion : Will remove the directory named : my_first_directory
+## 10-back : Will change the directory to the previous one
