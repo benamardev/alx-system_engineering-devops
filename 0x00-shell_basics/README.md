@@ -6,3 +6,4 @@
 ## 4-listmorefiles : Will the display all files including the hidden ones
 ## 5-listfilesdigitonly : Displays current directory contents with long format, user and group IDs displayed numerically and hidden files (starting with.
 ## 6-firstdirectory : Will creates a new directory under /tmp/
+## 7-movethatfile : Will move the fille betty from /tmp to /tmp/my_first_directory/
